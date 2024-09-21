@@ -1,0 +1,5 @@
+**/Console*
+**/x64
+**/.vs
+*.sln
+*.vcxproj*
